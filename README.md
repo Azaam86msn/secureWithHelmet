@@ -1,2 +1,3 @@
-# secureWithHelmet
-A demonstration of enhancing Express.js application security using Helmet.js. This project configures a range of HTTP headers to protect against common web vulnerabilities, including HSTS, XSS filtering, content security policies, and more.
+# Information Security with HelmetJS
+
+This is the boilerplate for the Information Security lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/
